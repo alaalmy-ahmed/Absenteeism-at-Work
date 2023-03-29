@@ -1,0 +1,741 @@
+,ID,Reason for absence,Month of absence,Day of the week,Seasons,Transportation expense,Distance from Residence to Work,Service time,Age,Work load Average/day ,Hit target,Disciplinary failure,Education,Son,Social drinker,Social smoker,Pet,Weight,Height,Body mass index,Absenteeism time in hours
+0,11,26,July,Tuesday,Spring,289,36,13,33,239.554,97,No,High School,2,Yes,No,1,90,172,30,4
+1,36,0,July,Tuesday,Spring,118,13,18,50,239.554,97,Yes,High School,1,Yes,No,0,98,178,31,0
+2,3,23,July,Wednesday,Spring,179,51,18,38,239.554,97,No,High School,0,Yes,No,0,89,170,31,2
+3,7,7,July,Thursday,Spring,279,5,14,39,239.554,97,No,High School,2,Yes,Yes,0,68,168,24,4
+4,11,23,July,Thursday,Spring,289,36,13,33,239.554,97,No,High School,2,Yes,No,1,90,172,30,2
+5,3,23,July,Friday,Spring,179,51,18,38,239.554,97,No,High School,0,Yes,No,0,89,170,31,2
+6,10,22,July,Friday,Spring,361,52,3,28,239.554,97,No,High School,1,Yes,No,4,80,172,27,8
+7,20,23,July,Friday,Spring,260,50,11,36,239.554,97,No,High School,4,Yes,No,0,65,168,23,4
+8,14,19,July,Monday,Spring,155,12,14,34,239.554,97,No,High School,2,Yes,No,0,95,196,25,40
+9,1,22,July,Monday,Spring,235,11,14,37,239.554,97,No,Postgraduate,1,No,No,1,88,172,29,8
+10,20,1,July,Monday,Spring,260,50,11,36,239.554,97,No,High School,4,Yes,No,0,65,168,23,8
+11,20,1,July,Tuesday,Spring,260,50,11,36,239.554,97,No,High School,4,Yes,No,0,65,168,23,8
+12,20,11,July,Wednesday,Spring,260,50,11,36,239.554,97,No,High School,4,Yes,No,0,65,168,23,8
+13,3,11,July,Wednesday,Spring,179,51,18,38,239.554,97,No,High School,0,Yes,No,0,89,170,31,1
+14,3,23,July,Wednesday,Spring,179,51,18,38,239.554,97,No,High School,0,Yes,No,0,89,170,31,4
+15,24,14,July,Friday,Spring,246,25,16,41,239.554,97,No,High School,0,Yes,No,0,67,170,23,8
+16,3,23,July,Friday,Spring,179,51,18,38,239.554,97,No,High School,0,Yes,No,0,89,170,31,2
+17,3,21,July,Monday,Spring,179,51,18,38,239.554,97,No,High School,0,Yes,No,0,89,170,31,8
+18,6,11,July,Thursday,Spring,189,29,13,33,239.554,97,No,High School,2,No,No,2,69,167,25,8
+19,33,23,August,Wednesday,Spring,248,25,14,47,205.917,92,No,High School,2,No,No,1,86,165,32,2
+20,18,10,August,Wednesday,Spring,330,16,4,28,205.917,92,No,Graduate,0,No,No,0,84,182,25,8
+21,3,11,August,Monday,Spring,179,51,18,38,205.917,92,No,High School,0,Yes,No,0,89,170,31,1
+22,10,13,August,Monday,Spring,361,52,3,28,205.917,92,No,High School,1,Yes,No,4,80,172,27,40
+23,20,28,August,Friday,Spring,260,50,11,36,205.917,92,No,High School,4,Yes,No,0,65,168,23,4
+24,11,18,August,Monday,Spring,289,36,13,33,205.917,92,No,High School,2,Yes,No,1,90,172,30,8
+25,10,25,August,Monday,Spring,361,52,3,28,205.917,92,No,High School,1,Yes,No,4,80,172,27,7
+26,11,23,August,Tuesday,Spring,289,36,13,33,205.917,92,No,High School,2,Yes,No,1,90,172,30,1
+27,30,28,August,Wednesday,Spring,157,27,6,29,205.917,92,No,High School,0,Yes,Yes,0,75,185,22,4
+28,11,18,August,Wednesday,Spring,289,36,13,33,205.917,92,No,High School,2,Yes,No,1,90,172,30,8
+29,3,23,August,Friday,Spring,179,51,18,38,205.917,92,No,High School,0,Yes,No,0,89,170,31,2
+30,3,18,August,Monday,Spring,179,51,18,38,205.917,92,No,High School,0,Yes,No,0,89,170,31,8
+31,2,18,August,Thursday,Spring,235,29,12,48,205.917,92,No,High School,1,No,Yes,5,88,163,33,8
+32,1,23,August,Thursday,Spring,235,11,14,37,205.917,92,No,Postgraduate,1,No,No,1,88,172,29,4
+33,2,18,August,Monday,Spring,235,29,12,48,205.917,92,No,High School,1,No,Yes,5,88,163,33,8
+34,3,23,August,Monday,Spring,179,51,18,38,205.917,92,No,High School,0,Yes,No,0,89,170,31,2
+35,10,23,August,Monday,Spring,361,52,3,28,205.917,92,No,High School,1,Yes,No,4,80,172,27,1
+36,11,24,August,Tuesday,Spring,289,36,13,33,205.917,92,No,High School,2,Yes,No,1,90,172,30,8
+37,19,11,August,Thursday,Spring,291,50,12,32,205.917,92,No,High School,0,Yes,No,0,65,169,23,4
+38,2,28,August,Friday,Spring,235,29,12,48,205.917,92,No,High School,1,No,Yes,5,88,163,33,8
+39,20,23,August,Friday,Spring,260,50,11,36,205.917,92,No,High School,4,Yes,No,0,65,168,23,4
+40,27,23,September,Tuesday,Spring,184,42,7,27,241.476,92,No,High School,0,No,No,0,58,167,21,2
+41,34,23,September,Monday,Spring,118,10,10,37,241.476,92,No,High School,0,No,No,0,83,172,28,4
+42,3,23,September,Tuesday,Spring,179,51,18,38,241.476,92,No,High School,0,Yes,No,0,89,170,31,4
+43,5,19,September,Tuesday,Spring,235,20,13,43,241.476,92,No,High School,1,Yes,No,0,106,167,38,8
+44,14,23,September,Wednesday,Spring,155,12,14,34,241.476,92,No,High School,2,Yes,No,0,95,196,25,2
+45,34,23,September,Monday,Spring,118,10,10,37,241.476,92,No,High School,0,No,No,0,83,172,28,3
+46,3,23,September,Tuesday,Spring,179,51,18,38,241.476,92,No,High School,0,Yes,No,0,89,170,31,3
+47,15,23,September,Thursday,Spring,291,31,12,40,241.476,92,No,High School,1,Yes,No,1,73,171,25,4
+48,20,22,September,Friday,Spring,260,50,11,36,241.476,92,No,High School,4,Yes,No,0,65,168,23,8
+49,15,14,September,Monday,Winter,291,31,12,40,241.476,92,No,High School,1,Yes,No,1,73,171,25,32
+50,20,0,September,Monday,Winter,260,50,11,36,241.476,92,Yes,High School,4,Yes,No,0,65,168,23,0
+51,29,0,September,Monday,Winter,225,26,9,28,241.476,92,Yes,High School,1,No,No,2,69,169,24,0
+52,28,23,September,Tuesday,Winter,225,26,9,28,241.476,92,No,High School,1,No,No,2,69,169,24,2
+53,34,23,September,Tuesday,Winter,118,10,10,37,241.476,92,No,High School,0,No,No,0,83,172,28,2
+54,11,0,September,Tuesday,Winter,289,36,13,33,241.476,92,Yes,High School,2,Yes,No,1,90,172,30,0
+55,36,0,September,Tuesday,Winter,118,13,18,50,241.476,92,Yes,High School,1,Yes,No,0,98,178,31,0
+56,28,18,September,Wednesday,Winter,225,26,9,28,241.476,92,No,High School,1,No,No,2,69,169,24,3
+57,3,23,September,Wednesday,Winter,179,51,18,38,241.476,92,No,High School,0,Yes,No,0,89,170,31,3
+58,13,0,September,Wednesday,Winter,369,17,12,31,241.476,92,Yes,High School,3,Yes,No,0,70,169,25,0
+59,33,23,September,Friday,Winter,248,25,14,47,241.476,92,No,High School,2,No,No,1,86,165,32,1
+60,3,23,September,Friday,Winter,179,51,18,38,241.476,92,No,High School,0,Yes,No,0,89,170,31,3
+61,20,23,September,Friday,Winter,260,50,11,36,241.476,92,No,High School,4,Yes,No,0,65,168,23,4
+62,3,23,October,Tuesday,Winter,179,51,18,38,253.465,93,No,High School,0,Yes,No,0,89,170,31,3
+63,34,23,October,Tuesday,Winter,118,10,10,37,253.465,93,No,High School,0,No,No,0,83,172,28,3
+64,36,0,October,Wednesday,Winter,118,13,18,50,253.465,93,Yes,High School,1,Yes,No,0,98,178,31,0
+65,22,23,October,Thursday,Winter,179,26,9,30,253.465,93,No,Postgraduate,0,No,No,0,56,171,19,1
+66,3,23,October,Friday,Winter,179,51,18,38,253.465,93,No,High School,0,Yes,No,0,89,170,31,3
+67,28,23,October,Friday,Winter,225,26,9,28,253.465,93,No,High School,1,No,No,2,69,169,24,3
+68,34,23,October,Tuesday,Winter,118,10,10,37,253.465,93,No,High School,0,No,No,0,83,172,28,3
+69,28,23,October,Wednesday,Winter,225,26,9,28,253.465,93,No,High School,1,No,No,2,69,169,24,2
+70,33,23,October,Wednesday,Winter,248,25,14,47,253.465,93,No,High School,2,No,No,1,86,165,32,2
+71,15,23,October,Thursday,Winter,291,31,12,40,253.465,93,No,High School,1,Yes,No,1,73,171,25,5
+72,3,23,October,Wednesday,Winter,179,51,18,38,253.465,93,No,High School,0,Yes,No,0,89,170,31,8
+73,28,23,October,Wednesday,Winter,225,26,9,28,253.465,93,No,High School,1,No,No,2,69,169,24,3
+74,20,19,October,Thursday,Winter,260,50,11,36,253.465,93,No,High School,4,Yes,No,0,65,168,23,16
+75,15,14,October,Tuesday,Winter,291,31,12,40,253.465,93,No,High School,1,Yes,No,1,73,171,25,8
+76,28,28,October,Tuesday,Winter,225,26,9,28,253.465,93,No,High School,1,No,No,2,69,169,24,2
+77,11,26,October,Wednesday,Winter,289,36,13,33,253.465,93,No,High School,2,Yes,No,1,90,172,30,8
+78,10,23,October,Friday,Winter,361,52,3,28,253.465,93,No,High School,1,Yes,No,4,80,172,27,1
+79,20,28,October,Friday,Winter,260,50,11,36,253.465,93,No,High School,4,Yes,No,0,65,168,23,3
+80,3,23,November,Thursday,Winter,179,51,18,38,306.345,93,No,High School,0,Yes,No,0,89,170,31,1
+81,28,23,November,Wednesday,Winter,225,26,9,28,306.345,93,No,High School,1,No,No,2,69,169,24,1
+82,3,13,November,Thursday,Winter,179,51,18,38,306.345,93,No,High School,0,Yes,No,0,89,170,31,8
+83,17,21,November,Thursday,Winter,179,22,17,40,306.345,93,No,Graduate,2,No,Yes,0,63,170,22,8
+84,15,23,November,Thursday,Winter,291,31,12,40,306.345,93,No,High School,1,Yes,No,1,73,171,25,5
+85,14,10,November,Monday,Winter,155,12,14,34,306.345,93,No,High School,2,Yes,No,0,95,196,25,32
+86,6,22,November,Monday,Winter,189,29,13,33,306.345,93,No,High School,2,No,No,2,69,167,25,8
+87,15,14,November,Monday,Winter,291,31,12,40,306.345,93,No,High School,1,Yes,No,1,73,171,25,40
+88,28,23,November,Wednesday,Winter,225,26,9,28,306.345,93,No,High School,1,No,No,2,69,169,24,1
+89,14,6,November,Friday,Winter,155,12,14,34,306.345,93,No,High School,2,Yes,No,0,95,196,25,8
+90,28,23,November,Wednesday,Winter,225,26,9,28,306.345,93,No,High School,1,No,No,2,69,169,24,3
+91,17,21,November,Wednesday,Winter,179,22,17,40,306.345,93,No,Graduate,2,No,Yes,0,63,170,22,8
+92,28,13,November,Friday,Winter,225,26,9,28,306.345,93,No,High School,1,No,No,2,69,169,24,3
+93,20,28,November,Friday,Winter,260,50,11,36,306.345,93,No,High School,4,Yes,No,0,65,168,23,4
+94,33,28,November,Monday,Winter,248,25,14,47,306.345,93,No,High School,2,No,No,1,86,165,32,1
+95,28,28,November,Tuesday,Winter,225,26,9,28,306.345,93,No,High School,1,No,No,2,69,169,24,3
+96,11,7,November,Wednesday,Winter,289,36,13,33,306.345,93,No,High School,2,Yes,No,1,90,172,30,24
+97,15,23,November,Thursday,Winter,291,31,12,40,306.345,93,No,High School,1,Yes,No,1,73,171,25,3
+98,33,23,December,Tuesday,Winter,248,25,14,47,261.306,97,No,High School,2,No,No,1,86,165,32,1
+99,34,19,December,Tuesday,Winter,118,10,10,37,261.306,97,No,High School,0,No,No,0,83,172,28,64
+100,36,23,December,Wednesday,Winter,118,13,18,50,261.306,97,No,High School,1,Yes,No,0,98,178,31,2
+101,1,26,December,Wednesday,Winter,235,11,14,37,261.306,97,No,Postgraduate,1,No,No,1,88,172,29,8
+102,28,23,December,Thursday,Winter,225,26,9,28,261.306,97,No,High School,1,No,No,2,69,169,24,2
+103,20,26,December,Friday,Winter,260,50,11,36,261.306,97,No,High School,4,Yes,No,0,65,168,23,8
+104,34,19,December,Tuesday,Winter,118,10,10,37,261.306,97,No,High School,0,No,No,0,83,172,28,56
+105,10,22,December,Wednesday,Winter,361,52,3,28,261.306,97,No,High School,1,Yes,No,4,80,172,27,8
+106,28,28,December,Thursday,Winter,225,26,9,28,261.306,97,No,High School,1,No,No,2,69,169,24,3
+107,20,28,December,Friday,Winter,260,50,11,36,261.306,97,No,High School,4,Yes,No,0,65,168,23,3
+108,28,23,December,Tuesday,Winter,225,26,9,28,261.306,97,No,High School,1,No,No,2,69,169,24,2
+109,10,22,December,Wednesday,Winter,361,52,3,28,261.306,97,No,High School,1,Yes,No,4,80,172,27,8
+110,34,27,December,Friday,Winter,118,10,10,37,261.306,97,No,High School,0,No,No,0,83,172,28,2
+111,24,19,December,Friday,Summer,246,25,16,41,261.306,97,No,High School,0,Yes,No,0,67,170,23,8
+112,28,23,December,Friday,Summer,225,26,9,28,261.306,97,No,High School,1,No,No,2,69,169,24,2
+113,28,23,January,Wednesday,Summer,225,26,9,28,308.593,95,No,High School,1,No,No,2,69,169,24,1
+114,34,19,January,Monday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,1
+115,34,27,January,Tuesday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,1
+116,14,18,January,Tuesday,Summer,155,12,14,34,308.593,95,No,High School,2,Yes,No,0,95,196,25,8
+117,28,27,January,Wednesday,Summer,225,26,9,28,308.593,95,No,High School,1,No,No,2,69,169,24,2
+118,27,23,January,Thursday,Summer,184,42,7,27,308.593,95,No,High School,0,No,No,0,58,167,21,2
+119,28,28,January,Thursday,Summer,225,26,9,28,308.593,95,No,High School,1,No,No,2,69,169,24,2
+120,28,27,January,Friday,Summer,225,26,9,28,308.593,95,No,High School,1,No,No,2,69,169,24,1
+121,34,27,January,Monday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+122,28,27,January,Tuesday,Summer,225,26,9,28,308.593,95,No,High School,1,No,No,2,69,169,24,2
+123,34,27,January,Tuesday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+124,34,27,January,Wednesday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+125,34,27,January,Thursday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+126,34,27,January,Friday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+127,34,27,January,Monday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+128,34,27,January,Tuesday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+129,22,18,January,Tuesday,Summer,179,26,9,30,308.593,95,No,Postgraduate,0,No,No,0,56,171,19,8
+130,11,18,January,Tuesday,Summer,289,36,13,33,308.593,95,No,High School,2,Yes,No,1,90,172,30,8
+131,34,27,January,Wednesday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+132,27,23,January,Thursday,Summer,184,42,7,27,308.593,95,No,High School,0,No,No,0,58,167,21,2
+133,34,27,January,Thursday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,2
+134,34,27,January,Monday,Summer,118,10,10,37,308.593,95,No,High School,0,No,No,0,83,172,28,0
+135,28,23,January,Tuesday,Summer,225,26,9,28,308.593,95,No,High School,1,No,No,2,69,169,24,1
+136,11,22,January,Thursday,Summer,289,36,13,33,308.593,95,No,High School,2,Yes,No,1,90,172,30,3
+137,27,23,February,Friday,Summer,184,42,7,27,302.585,99,No,High School,0,No,No,0,58,167,21,1
+138,24,1,February,Wednesday,Summer,246,25,16,41,302.585,99,No,High School,0,Yes,No,0,67,170,23,8
+139,3,11,February,Wednesday,Summer,179,51,18,38,302.585,99,No,High School,0,Yes,No,0,89,170,31,8
+140,14,28,February,Thursday,Summer,155,12,14,34,302.585,99,No,High School,2,Yes,No,0,95,196,25,2
+141,6,23,February,Thursday,Summer,189,29,13,33,302.585,99,No,High School,2,No,No,2,69,167,25,8
+142,20,28,February,Friday,Summer,260,50,11,36,302.585,99,No,High School,4,Yes,No,0,65,168,23,2
+143,11,22,February,Friday,Summer,289,36,13,33,302.585,99,No,High School,2,Yes,No,1,90,172,30,8
+144,31,11,February,Monday,Summer,388,15,9,50,302.585,99,No,High School,0,No,No,0,76,178,24,8
+145,31,1,February,Tuesday,Summer,388,15,9,50,302.585,99,No,High School,0,No,No,0,76,178,24,8
+146,28,28,February,Monday,Summer,225,26,9,28,302.585,99,No,High School,1,No,No,2,69,169,24,2
+147,28,23,February,Tuesday,Summer,225,26,9,28,302.585,99,No,High School,1,No,No,2,69,169,24,2
+148,22,23,February,Tuesday,Summer,179,26,9,30,302.585,99,No,Postgraduate,0,No,No,0,56,171,19,1
+149,27,23,February,Tuesday,Summer,184,42,7,27,302.585,99,No,High School,0,No,No,0,58,167,21,8
+150,28,25,February,Thursday,Summer,225,26,9,28,302.585,99,No,High School,1,No,No,2,69,169,24,3
+151,18,18,February,Monday,Summer,330,16,4,28,302.585,99,No,Graduate,0,No,No,0,84,182,25,8
+152,18,23,February,Tuesday,Summer,330,16,4,28,302.585,99,No,Graduate,0,No,No,0,84,182,25,1
+153,28,23,February,Wednesday,Summer,225,26,9,28,302.585,99,No,High School,1,No,No,2,69,169,24,1
+154,6,19,February,Thursday,Summer,189,29,13,33,302.585,99,No,High School,2,No,No,2,69,167,25,8
+155,19,28,March,Tuesday,Summer,291,50,12,32,343.253,95,No,High School,0,Yes,No,0,65,169,23,2
+156,20,19,March,Tuesday,Summer,260,50,11,36,343.253,95,No,High School,4,Yes,No,0,65,168,23,8
+157,30,19,March,Tuesday,Summer,157,27,6,29,343.253,95,No,High School,0,Yes,Yes,0,75,185,22,3
+158,17,17,March,Tuesday,Summer,179,22,17,40,343.253,95,No,Graduate,2,No,Yes,0,63,170,22,8
+159,15,22,March,Wednesday,Summer,291,31,12,40,343.253,95,No,High School,1,Yes,No,1,73,171,25,8
+160,20,13,March,Wednesday,Summer,260,50,11,36,343.253,95,No,High School,4,Yes,No,0,65,168,23,8
+161,22,13,March,Thursday,Summer,179,26,9,30,343.253,95,No,Postgraduate,0,No,No,0,56,171,19,8
+162,33,14,March,Friday,Summer,248,25,14,47,343.253,95,No,High School,2,No,No,1,86,165,32,3
+163,20,13,March,Friday,Summer,260,50,11,36,343.253,95,No,High School,4,Yes,No,0,65,168,23,40
+164,17,11,March,Monday,Summer,179,22,17,40,343.253,95,No,Graduate,2,No,Yes,0,63,170,22,40
+165,14,1,March,Monday,Summer,155,12,14,34,343.253,95,No,High School,2,Yes,No,0,95,196,25,16
+166,20,26,March,Monday,Summer,260,50,11,36,343.253,95,No,High School,4,Yes,No,0,65,168,23,16
+167,14,13,March,Tuesday,Summer,155,12,14,34,343.253,95,No,High School,2,Yes,No,0,95,196,25,8
+168,11,6,March,Thursday,Summer,289,36,13,33,343.253,95,No,High School,2,Yes,No,1,90,172,30,8
+169,17,8,March,Thursday,Summer,179,22,17,40,343.253,95,No,Graduate,2,No,Yes,0,63,170,22,8
+170,20,28,March,Friday,Summer,260,50,11,36,343.253,95,No,High School,4,Yes,No,0,65,168,23,4
+171,28,23,March,Friday,Summer,225,26,9,28,343.253,95,No,High School,1,No,No,2,69,169,24,1
+172,7,14,March,Monday,Summer,279,5,14,39,343.253,95,No,High School,2,Yes,Yes,0,68,168,24,8
+173,3,13,March,Tuesday,Summer,179,51,18,38,343.253,95,No,High School,0,Yes,No,0,89,170,31,24
+174,28,23,March,Wednesday,Summer,225,26,9,28,343.253,95,No,High School,1,No,No,2,69,169,24,2
+175,28,11,March,Monday,Fall,225,26,9,28,343.253,95,No,High School,1,No,No,2,69,169,24,8
+176,22,13,March,Monday,Fall,179,26,9,30,343.253,95,No,Postgraduate,0,No,No,0,56,171,19,1
+177,28,11,March,Tuesday,Fall,225,26,9,28,343.253,95,No,High School,1,No,No,2,69,169,24,8
+178,28,11,March,Wednesday,Fall,225,26,9,28,343.253,95,No,High School,1,No,No,2,69,169,24,16
+179,3,13,March,Wednesday,Fall,179,51,18,38,343.253,95,No,High School,0,Yes,No,0,89,170,31,3
+180,7,14,March,Thursday,Fall,279,5,14,39,343.253,95,No,High School,2,Yes,Yes,0,68,168,24,16
+181,28,28,March,Friday,Fall,225,26,9,28,343.253,95,No,High School,1,No,No,2,69,169,24,2
+182,33,14,March,Friday,Fall,248,25,14,47,343.253,95,No,High School,2,No,No,1,86,165,32,3
+183,28,28,March,Monday,Fall,225,26,9,28,343.253,95,No,High School,1,No,No,2,69,169,24,1
+184,15,28,April,Wednesday,Fall,291,31,12,40,326.452,96,No,High School,1,Yes,No,1,73,171,25,1
+185,28,23,April,Wednesday,Fall,225,26,9,28,326.452,96,No,High School,1,No,No,2,69,169,24,1
+186,14,28,April,Tuesday,Fall,155,12,14,34,326.452,96,No,High School,2,Yes,No,0,95,196,25,1
+187,24,13,April,Wednesday,Fall,246,25,16,41,326.452,96,No,High School,0,Yes,No,0,67,170,23,24
+188,14,23,April,Thursday,Fall,155,12,14,34,326.452,96,No,High School,2,Yes,No,0,95,196,25,1
+189,28,28,April,Friday,Fall,225,26,9,28,326.452,96,No,High School,1,No,No,2,69,169,24,2
+190,20,28,April,Friday,Fall,260,50,11,36,326.452,96,No,High School,4,Yes,No,0,65,168,23,4
+191,3,13,April,Wednesday,Fall,179,51,18,38,326.452,96,No,High School,0,Yes,No,0,89,170,31,24
+192,36,23,April,Thursday,Fall,118,13,18,50,326.452,96,No,High School,1,Yes,No,0,98,178,31,1
+193,15,23,April,Friday,Fall,291,31,12,40,326.452,96,No,High School,1,Yes,No,1,73,171,25,3
+194,24,14,April,Friday,Fall,246,25,16,41,326.452,96,No,High School,0,Yes,No,0,67,170,23,8
+195,15,28,April,Friday,Fall,291,31,12,40,326.452,96,No,High School,1,Yes,No,1,73,171,25,1
+196,33,28,April,Friday,Fall,248,25,14,47,326.452,96,No,High School,2,No,No,1,86,165,32,8
+197,20,19,April,Friday,Fall,260,50,11,36,326.452,96,No,High School,4,Yes,No,0,65,168,23,56
+198,11,19,April,Tuesday,Fall,289,36,13,33,326.452,96,No,High School,2,Yes,No,1,90,172,30,8
+199,14,12,April,Wednesday,Fall,155,12,14,34,326.452,96,No,High School,2,Yes,No,0,95,196,25,24
+200,23,19,April,Wednesday,Fall,378,49,11,36,326.452,96,No,High School,2,No,Yes,4,65,174,21,8
+201,11,13,April,Thursday,Fall,289,36,13,33,326.452,96,No,High School,2,Yes,No,1,90,172,30,16
+202,1,7,April,Friday,Fall,235,11,14,37,326.452,96,No,Postgraduate,1,No,No,1,88,172,29,3
+203,2,0,April,Monday,Fall,235,29,12,48,326.452,96,Yes,High School,1,No,Yes,5,88,163,33,0
+204,11,13,May,Wednesday,Fall,289,36,13,33,378.884,92,No,High School,2,Yes,No,1,90,172,30,8
+205,14,28,May,Thursday,Fall,155,12,14,34,378.884,92,No,High School,2,Yes,No,0,95,196,25,2
+206,14,28,May,Monday,Fall,155,12,14,34,378.884,92,No,High School,2,Yes,No,0,95,196,25,1
+207,3,18,May,Tuesday,Fall,179,51,18,38,378.884,92,No,High School,0,Yes,No,0,89,170,31,8
+208,28,19,May,Tuesday,Fall,225,26,9,28,378.884,92,No,High School,1,No,No,2,69,169,24,8
+209,27,7,May,Wednesday,Fall,184,42,7,27,378.884,92,No,High School,0,No,No,0,58,167,21,4
+210,14,28,May,Monday,Fall,155,12,14,34,378.884,92,No,High School,2,Yes,No,0,95,196,25,2
+211,3,12,May,Tuesday,Fall,179,51,18,38,378.884,92,No,High School,0,Yes,No,0,89,170,31,1
+212,11,13,May,Wednesday,Fall,289,36,13,33,378.884,92,No,High School,2,Yes,No,1,90,172,30,24
+213,7,0,May,Wednesday,Fall,279,5,14,39,378.884,92,Yes,High School,2,Yes,Yes,0,68,168,24,0
+214,18,0,May,Wednesday,Fall,330,16,4,28,378.884,92,Yes,Graduate,0,No,No,0,84,182,25,0
+215,23,0,May,Wednesday,Fall,378,49,11,36,378.884,92,Yes,High School,2,No,Yes,4,65,174,21,0
+216,31,0,May,Wednesday,Fall,388,15,9,50,378.884,92,Yes,High School,0,No,No,0,76,178,24,0
+217,3,11,May,Tuesday,Fall,179,51,18,38,378.884,92,No,High School,0,Yes,No,0,89,170,31,1
+218,36,13,May,Wednesday,Fall,118,13,18,50,378.884,92,No,High School,1,Yes,No,0,98,178,31,24
+219,10,22,May,Friday,Fall,361,52,3,28,378.884,92,No,High School,1,Yes,No,4,80,172,27,8
+220,24,19,June,Monday,Fall,246,25,16,41,377.55,94,No,High School,0,Yes,No,0,67,170,23,8
+221,10,22,June,Monday,Fall,361,52,3,28,377.55,94,No,High School,1,Yes,No,4,80,172,27,8
+222,24,10,June,Tuesday,Fall,246,25,16,41,377.55,94,No,High School,0,Yes,No,0,67,170,23,24
+223,15,23,June,Thursday,Fall,291,31,12,40,377.55,94,No,High School,1,Yes,No,1,73,171,25,4
+224,24,10,June,Friday,Fall,246,25,16,41,377.55,94,No,High School,0,Yes,No,0,67,170,23,8
+225,3,11,June,Monday,Fall,179,51,18,38,377.55,94,No,High School,0,Yes,No,0,89,170,31,8
+226,14,23,June,Monday,Fall,155,12,14,34,377.55,94,No,High School,2,Yes,No,0,95,196,25,4
+227,24,10,June,Monday,Fall,246,25,16,41,377.55,94,No,High School,0,Yes,No,0,67,170,23,8
+228,36,13,June,Wednesday,Fall,118,13,18,50,377.55,94,No,High School,1,Yes,No,0,98,178,31,8
+229,1,13,June,Friday,Fall,235,11,14,37,377.55,94,No,Postgraduate,1,No,No,1,88,172,29,16
+230,36,23,June,Tuesday,Fall,118,13,18,50,377.55,94,No,High School,1,Yes,No,0,98,178,31,1
+231,36,13,June,Wednesday,Fall,118,13,18,50,377.55,94,No,High School,1,Yes,No,0,98,178,31,80
+232,23,22,June,Thursday,Fall,378,49,11,36,377.55,94,No,High School,2,No,Yes,4,65,174,21,8
+233,3,11,June,Friday,Fall,179,51,18,38,377.55,94,No,High School,0,Yes,No,0,89,170,31,2
+234,32,28,June,Monday,Spring,289,48,29,49,377.55,94,No,High School,0,No,No,2,108,172,36,2
+235,28,28,June,Thursday,Spring,225,26,9,28,377.55,94,No,High School,1,No,No,2,69,169,24,2
+236,14,19,July,Tuesday,Spring,155,12,14,34,275.312,98,No,High School,2,Yes,No,0,95,196,25,16
+237,36,1,July,Wednesday,Spring,118,13,18,50,275.312,98,No,High School,1,Yes,No,0,98,178,31,8
+238,34,5,July,Friday,Spring,118,10,10,37,275.312,98,No,High School,0,No,No,0,83,172,28,8
+239,34,26,July,Friday,Spring,118,10,10,37,275.312,98,No,High School,0,No,No,0,83,172,28,4
+240,18,26,July,Tuesday,Spring,330,16,4,28,275.312,98,No,Graduate,0,No,No,0,84,182,25,8
+241,22,18,July,Thursday,Spring,179,26,9,30,275.312,98,No,Postgraduate,0,No,No,0,56,171,19,8
+242,14,25,July,Friday,Spring,155,12,14,34,275.312,98,No,High School,2,Yes,No,0,95,196,25,2
+243,18,1,July,Monday,Spring,330,16,4,28,275.312,98,No,Graduate,0,No,No,0,84,182,25,8
+244,18,1,July,Tuesday,Spring,330,16,4,28,275.312,98,No,Graduate,0,No,No,0,84,182,25,8
+245,30,25,July,Monday,Spring,157,27,6,29,275.312,98,No,High School,0,Yes,Yes,0,75,185,22,3
+246,10,22,July,Tuesday,Spring,361,52,3,28,275.312,98,No,High School,1,Yes,No,4,80,172,27,8
+247,11,26,July,Wednesday,Spring,289,36,13,33,275.312,98,No,High School,2,Yes,No,1,90,172,30,8
+248,3,26,July,Thursday,Spring,179,51,18,38,275.312,98,No,High School,0,Yes,No,0,89,170,31,8
+249,11,19,July,Monday,Spring,289,36,13,33,275.312,98,No,High School,2,Yes,No,1,90,172,30,32
+250,11,19,July,Thursday,Spring,289,36,13,33,275.312,98,No,High School,2,Yes,No,1,90,172,30,8
+251,20,0,July,Thursday,Spring,260,50,11,36,275.312,98,Yes,High School,4,Yes,No,0,65,168,23,0
+252,11,19,August,Friday,Spring,289,36,13,33,265.615,94,No,High School,2,Yes,No,1,90,172,30,8
+253,30,19,August,Friday,Spring,157,27,6,29,265.615,94,No,High School,0,Yes,Yes,0,75,185,22,3
+254,11,23,August,Monday,Spring,289,36,13,33,265.615,94,No,High School,2,Yes,No,1,90,172,30,1
+255,9,18,August,Tuesday,Spring,228,14,16,58,265.615,94,No,High School,2,No,No,1,65,172,22,8
+256,26,13,August,Thursday,Spring,300,26,13,43,265.615,94,No,High School,2,Yes,Yes,1,77,175,25,1
+257,26,14,August,Thursday,Spring,300,26,13,43,265.615,94,No,High School,2,Yes,Yes,1,77,175,25,2
+258,20,28,August,Friday,Spring,260,50,11,36,265.615,94,No,High School,4,Yes,No,0,65,168,23,4
+259,11,23,August,Tuesday,Spring,289,36,13,33,265.615,94,No,High School,2,Yes,No,1,90,172,30,4
+260,33,23,August,Wednesday,Spring,248,25,14,47,265.615,94,No,High School,2,No,No,1,86,165,32,1
+261,21,11,August,Thursday,Spring,268,11,8,33,265.615,94,No,Graduate,0,No,No,0,79,178,25,8
+262,22,23,August,Thursday,Spring,179,26,9,30,265.615,94,No,Postgraduate,0,No,No,0,56,171,19,1
+263,36,13,August,Thursday,Spring,118,13,18,50,265.615,94,No,High School,1,Yes,No,0,98,178,31,3
+264,33,25,August,Monday,Spring,248,25,14,47,265.615,94,No,High School,2,No,No,1,86,165,32,2
+265,1,23,August,Tuesday,Spring,235,11,14,37,265.615,94,No,Postgraduate,1,No,No,1,88,172,29,1
+266,36,23,August,Thursday,Spring,118,13,18,50,265.615,94,No,High School,1,Yes,No,0,98,178,31,1
+267,1,19,August,Thursday,Spring,235,11,14,37,265.615,94,No,Postgraduate,1,No,No,1,88,172,29,8
+268,10,8,August,Tuesday,Spring,361,52,3,28,265.615,94,No,High School,1,Yes,No,4,80,172,27,8
+269,27,6,August,Wednesday,Spring,184,42,7,27,265.615,94,No,High School,0,No,No,0,58,167,21,8
+270,3,11,September,Monday,Spring,179,51,18,38,294.217,81,No,High School,0,Yes,No,0,89,170,31,8
+271,3,23,September,Friday,Spring,179,51,18,38,294.217,81,No,High School,0,Yes,No,0,89,170,31,3
+272,11,19,September,Wednesday,Spring,289,36,13,33,294.217,81,No,High School,2,Yes,No,1,90,172,30,24
+273,5,0,September,Thursday,Spring,235,20,13,43,294.217,81,Yes,High School,1,Yes,No,0,106,167,38,0
+274,24,9,September,Monday,Spring,246,25,16,41,294.217,81,No,High School,0,Yes,No,0,67,170,23,16
+275,15,28,September,Tuesday,Spring,291,31,12,40,294.217,81,No,High School,1,Yes,No,1,73,171,25,3
+276,8,0,September,Tuesday,Spring,231,35,14,39,294.217,81,Yes,High School,2,Yes,No,2,100,170,35,0
+277,19,0,September,Tuesday,Spring,291,50,12,32,294.217,81,Yes,High School,0,Yes,No,0,65,169,23,0
+278,3,13,September,Wednesday,Spring,179,51,18,38,294.217,81,No,High School,0,Yes,No,0,89,170,31,8
+279,24,9,September,Wednesday,Spring,246,25,16,41,294.217,81,No,High School,0,Yes,No,0,67,170,23,32
+280,3,23,September,Thursday,Spring,179,51,18,38,294.217,81,No,High School,0,Yes,No,0,89,170,31,1
+281,15,28,September,Friday,Spring,291,31,12,40,294.217,81,No,High School,1,Yes,No,1,73,171,25,4
+282,20,28,September,Friday,Spring,260,50,11,36,294.217,81,No,High School,4,Yes,No,0,65,168,23,4
+283,5,26,September,Wednesday,Winter,235,20,13,43,294.217,81,No,High School,1,Yes,No,0,106,167,38,8
+284,36,28,September,Thursday,Winter,118,13,18,50,294.217,81,No,High School,1,Yes,No,0,98,178,31,1
+285,5,0,September,Thursday,Winter,235,20,13,43,294.217,81,Yes,High School,1,Yes,No,0,106,167,38,0
+286,15,28,September,Friday,Winter,291,31,12,40,294.217,81,No,High School,1,Yes,No,1,73,171,25,3
+287,15,7,September,Monday,Winter,291,31,12,40,294.217,81,No,High School,1,Yes,No,1,73,171,25,40
+288,3,13,September,Monday,Winter,179,51,18,38,294.217,81,No,High School,0,Yes,No,0,89,170,31,8
+289,11,24,October,Monday,Winter,289,36,13,33,265.017,88,No,High School,2,Yes,No,1,90,172,30,8
+290,1,26,October,Monday,Winter,235,11,14,37,265.017,88,No,Postgraduate,1,No,No,1,88,172,29,4
+291,11,26,October,Monday,Winter,289,36,13,33,265.017,88,No,High School,2,Yes,No,1,90,172,30,8
+292,11,22,October,Friday,Winter,289,36,13,33,265.017,88,No,High School,2,Yes,No,1,90,172,30,8
+293,36,0,October,Friday,Winter,118,13,18,50,265.017,88,Yes,High School,1,Yes,No,0,98,178,31,0
+294,33,0,October,Friday,Winter,248,25,14,47,265.017,88,Yes,High School,2,No,No,1,86,165,32,0
+295,22,1,October,Monday,Winter,179,26,9,30,265.017,88,No,Postgraduate,0,No,No,0,56,171,19,8
+296,34,7,October,Monday,Winter,118,10,10,37,265.017,88,No,High School,0,No,No,0,83,172,28,3
+297,13,22,October,Monday,Winter,369,17,12,31,265.017,88,No,High School,3,Yes,No,0,70,169,25,8
+298,3,28,October,Wednesday,Winter,179,51,18,38,265.017,88,No,High School,0,Yes,No,0,89,170,31,1
+299,22,1,October,Wednesday,Winter,179,26,9,30,265.017,88,No,Postgraduate,0,No,No,0,56,171,19,64
+300,5,0,October,Wednesday,Winter,235,20,13,43,265.017,88,Yes,High School,1,Yes,No,0,106,167,38,0
+301,11,19,October,Thursday,Winter,289,36,13,33,265.017,88,No,High School,2,Yes,No,1,90,172,30,16
+302,20,28,October,Friday,Winter,260,50,11,36,265.017,88,No,High School,4,Yes,No,0,65,168,23,3
+303,5,0,October,Friday,Winter,235,20,13,43,265.017,88,Yes,High School,1,Yes,No,0,106,167,38,0
+304,5,23,October,Monday,Winter,235,20,13,43,265.017,88,No,High School,1,Yes,No,0,106,167,38,2
+305,5,23,October,Monday,Winter,235,20,13,43,265.017,88,No,High School,1,Yes,No,0,106,167,38,2
+306,36,28,October,Tuesday,Winter,118,13,18,50,265.017,88,No,High School,1,Yes,No,0,98,178,31,1
+307,15,28,October,Tuesday,Winter,291,31,12,40,265.017,88,No,High School,1,Yes,No,1,73,171,25,4
+308,22,23,October,Thursday,Winter,179,26,9,30,265.017,88,No,Postgraduate,0,No,No,0,56,171,19,16
+309,36,28,October,Thursday,Winter,118,13,18,50,265.017,88,No,High School,1,Yes,No,0,98,178,31,1
+310,10,10,October,Monday,Winter,361,52,3,28,265.017,88,No,High School,1,Yes,No,4,80,172,27,8
+311,20,0,October,Tuesday,Winter,260,50,11,36,265.017,88,Yes,High School,4,Yes,No,0,65,168,23,0
+312,15,0,October,Tuesday,Winter,291,31,12,40,265.017,88,Yes,High School,1,Yes,No,1,73,171,25,0
+313,30,0,October,Tuesday,Winter,157,27,6,29,265.017,88,Yes,High School,0,Yes,Yes,0,75,185,22,0
+314,22,1,October,Wednesday,Winter,179,26,9,30,265.017,88,No,Postgraduate,0,No,No,0,56,171,19,5
+315,22,7,October,Wednesday,Winter,179,26,9,30,265.017,88,No,Postgraduate,0,No,No,0,56,171,19,5
+316,36,23,October,Thursday,Winter,118,13,18,50,265.017,88,No,High School,1,Yes,No,0,98,178,31,1
+317,34,11,November,Monday,Winter,118,10,10,37,284.031,97,No,High School,0,No,No,0,83,172,28,8
+318,33,23,November,Monday,Winter,248,25,14,47,284.031,97,No,High School,2,No,No,1,86,165,32,2
+319,3,6,November,Tuesday,Winter,179,51,18,38,284.031,97,No,High School,0,Yes,No,0,89,170,31,8
+320,20,28,November,Friday,Winter,260,50,11,36,284.031,97,No,High School,4,Yes,No,0,65,168,23,3
+321,15,23,November,Monday,Winter,291,31,12,40,284.031,97,No,High School,1,Yes,No,1,73,171,25,1
+322,23,1,November,Monday,Winter,378,49,11,36,284.031,97,No,High School,2,No,Yes,4,65,174,21,8
+323,14,11,November,Monday,Winter,155,12,14,34,284.031,97,No,High School,2,Yes,No,0,95,196,25,120
+324,5,26,November,Monday,Winter,235,20,13,43,284.031,97,No,High School,1,Yes,No,0,106,167,38,8
+325,18,0,November,Tuesday,Winter,330,16,4,28,284.031,97,Yes,Graduate,0,No,No,0,84,182,25,0
+326,1,18,November,Wednesday,Winter,235,11,14,37,284.031,97,No,Postgraduate,1,No,No,1,88,172,29,1
+327,34,11,November,Wednesday,Winter,118,10,10,37,284.031,97,No,High School,0,No,No,0,83,172,28,3
+328,1,25,November,Thursday,Winter,235,11,14,37,284.031,97,No,Postgraduate,1,No,No,1,88,172,29,2
+329,3,28,November,Thursday,Winter,179,51,18,38,284.031,97,No,High School,0,Yes,No,0,89,170,31,3
+330,24,13,November,Friday,Winter,246,25,16,41,284.031,97,No,High School,0,Yes,No,0,67,170,23,8
+331,15,12,November,Friday,Winter,291,31,12,40,284.031,97,No,High School,1,Yes,No,1,73,171,25,4
+332,24,13,November,Monday,Winter,246,25,16,41,284.031,97,No,High School,0,Yes,No,0,67,170,23,8
+333,3,28,November,Tuesday,Winter,179,51,18,38,284.031,97,No,High School,0,Yes,No,0,89,170,31,1
+334,20,10,November,Wednesday,Winter,260,50,11,36,284.031,97,No,High School,4,Yes,No,0,65,168,23,8
+335,20,15,November,Friday,Winter,260,50,11,36,284.031,97,No,High School,4,Yes,No,0,65,168,23,8
+336,23,0,November,Friday,Winter,378,49,11,36,284.031,97,Yes,High School,2,No,Yes,4,65,174,21,0
+337,7,0,November,Tuesday,Winter,279,5,14,39,284.031,97,Yes,High School,2,Yes,Yes,0,68,168,24,0
+338,3,23,November,Thursday,Winter,179,51,18,38,284.031,97,No,High School,0,Yes,No,0,89,170,31,1
+339,28,12,December,Monday,Winter,225,26,9,28,236.629,93,No,High School,1,No,No,2,69,169,24,3
+340,3,28,December,Monday,Winter,179,51,18,38,236.629,93,No,High School,0,Yes,No,0,89,170,31,2
+341,3,28,December,Monday,Winter,179,51,18,38,236.629,93,No,High School,0,Yes,No,0,89,170,31,1
+342,1,23,December,Monday,Winter,235,11,14,37,236.629,93,No,Postgraduate,1,No,No,1,88,172,29,3
+343,36,28,December,Tuesday,Winter,118,13,18,50,236.629,93,No,High School,1,Yes,No,0,98,178,31,1
+344,20,28,December,Friday,Winter,260,50,11,36,236.629,93,No,High School,4,Yes,No,0,65,168,23,4
+345,24,4,December,Thursday,Winter,246,25,16,41,236.629,93,No,High School,0,Yes,No,0,67,170,23,8
+346,3,28,December,Thursday,Winter,179,51,18,38,236.629,93,No,High School,0,Yes,No,0,89,170,31,1
+347,3,28,December,Friday,Winter,179,51,18,38,236.629,93,No,High School,0,Yes,No,0,89,170,31,1
+348,22,23,December,Tuesday,Winter,179,26,9,30,236.629,93,No,Postgraduate,0,No,No,0,56,171,19,1
+349,34,25,December,Tuesday,Winter,118,10,10,37,236.629,93,No,High School,0,No,No,0,83,172,28,8
+350,1,25,December,Thursday,Winter,235,11,14,37,236.629,93,No,Postgraduate,1,No,No,1,88,172,29,2
+351,3,28,December,Friday,Winter,179,51,18,38,236.629,93,No,High School,0,Yes,No,0,89,170,31,1
+352,5,13,December,Tuesday,Summer,235,20,13,43,236.629,93,No,High School,1,Yes,No,0,106,167,38,8
+353,1,14,December,Tuesday,Summer,235,11,14,37,236.629,93,No,Postgraduate,1,No,No,1,88,172,29,4
+354,20,26,December,Wednesday,Summer,260,50,11,36,236.629,93,No,High School,4,Yes,No,0,65,168,23,8
+355,30,28,December,Monday,Summer,157,27,6,29,236.629,93,No,High School,0,Yes,Yes,0,75,185,22,2
+356,3,28,December,Monday,Summer,179,51,18,38,236.629,93,No,High School,0,Yes,No,0,89,170,31,3
+357,11,19,December,Monday,Summer,289,36,13,33,236.629,93,No,High School,2,Yes,No,1,90,172,30,8
+358,28,23,January,Wednesday,Summer,225,26,9,28,330.061,100,No,High School,1,No,No,2,69,169,24,5
+359,34,19,January,Monday,Summer,118,10,10,37,330.061,100,No,High School,0,No,No,0,83,172,28,32
+360,14,23,January,Monday,Summer,155,12,14,34,330.061,100,No,High School,2,Yes,No,0,95,196,25,2
+361,1,13,January,Tuesday,Summer,235,11,14,37,330.061,100,No,Postgraduate,1,No,No,1,88,172,29,1
+362,14,23,January,Tuesday,Summer,155,12,14,34,330.061,100,No,High School,2,Yes,No,0,95,196,25,4
+363,11,26,January,Monday,Summer,289,36,13,33,330.061,100,No,High School,2,Yes,No,1,90,172,30,8
+364,15,3,January,Wednesday,Summer,291,31,12,40,330.061,100,No,High School,1,Yes,No,1,73,171,25,8
+365,5,26,January,Monday,Summer,235,20,13,43,330.061,100,No,High School,1,Yes,No,0,106,167,38,8
+366,36,26,January,Monday,Summer,118,13,18,50,330.061,100,No,High School,1,Yes,No,0,98,178,31,4
+367,3,28,January,Wednesday,Summer,179,51,18,38,330.061,100,No,High School,0,Yes,No,0,89,170,31,1
+368,3,28,January,Friday,Summer,179,51,18,38,330.061,100,No,High School,0,Yes,No,0,89,170,31,1
+369,34,28,February,Tuesday,Summer,118,10,10,37,251.818,96,No,High School,0,No,No,0,83,172,28,2
+370,3,27,February,Wednesday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+371,28,7,February,Wednesday,Summer,225,26,9,28,251.818,96,No,High School,1,No,No,2,69,169,24,1
+372,11,22,February,Friday,Summer,289,36,13,33,251.818,96,No,High School,2,Yes,No,1,90,172,30,3
+373,20,28,February,Friday,Summer,260,50,11,36,251.818,96,No,High School,4,Yes,No,0,65,168,23,3
+374,3,23,February,Friday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+375,3,27,February,Monday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,2
+376,3,27,February,Wednesday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+377,3,10,February,Thursday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,8
+378,24,26,February,Thursday,Summer,246,25,16,41,251.818,96,No,High School,0,Yes,No,0,67,170,23,8
+379,3,27,February,Friday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+380,6,22,February,Monday,Summer,189,29,13,33,251.818,96,No,High School,2,No,No,2,69,167,25,8
+381,3,27,February,Monday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+382,24,23,February,Tuesday,Summer,246,25,16,41,251.818,96,No,High School,0,Yes,No,0,67,170,23,2
+383,15,23,February,Tuesday,Summer,291,31,12,40,251.818,96,No,High School,1,Yes,No,1,73,171,25,2
+384,30,11,February,Wednesday,Summer,157,27,6,29,251.818,96,No,High School,0,Yes,Yes,0,75,185,22,16
+385,3,27,February,Wednesday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+386,3,27,February,Friday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+387,24,10,February,Friday,Summer,246,25,16,41,251.818,96,No,High School,0,Yes,No,0,67,170,23,24
+388,3,27,February,Wednesday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+389,3,27,February,Friday,Summer,179,51,18,38,251.818,96,No,High School,0,Yes,No,0,89,170,31,3
+390,34,18,March,Tuesday,Summer,118,10,10,37,244.387,98,No,High School,0,No,No,0,83,172,28,8
+391,24,19,March,Wednesday,Summer,246,25,16,41,244.387,98,No,High School,0,Yes,No,0,67,170,23,16
+392,24,28,March,Friday,Summer,246,25,16,41,244.387,98,No,High School,0,Yes,No,0,67,170,23,2
+393,20,28,March,Friday,Summer,260,50,11,36,244.387,98,No,High School,4,Yes,No,0,65,168,23,4
+394,3,28,March,Monday,Summer,179,51,18,38,244.387,98,No,High School,0,Yes,No,0,89,170,31,2
+395,1,22,March,Monday,Summer,235,11,14,37,244.387,98,No,Postgraduate,1,No,No,1,88,172,29,8
+396,17,22,March,Tuesday,Summer,179,22,17,40,244.387,98,No,Graduate,2,No,Yes,0,63,170,22,8
+397,23,22,March,Tuesday,Summer,378,49,11,36,244.387,98,No,High School,2,No,Yes,4,65,174,21,8
+398,3,28,March,Monday,Summer,179,51,18,38,244.387,98,No,High School,0,Yes,No,0,89,170,31,16
+399,10,22,March,Wednesday,Summer,361,52,3,28,244.387,98,No,High School,1,Yes,No,4,80,172,27,8
+400,13,0,March,Wednesday,Summer,369,17,12,31,244.387,98,Yes,High School,3,Yes,No,0,70,169,25,0
+401,1,21,March,Thursday,Summer,235,11,14,37,244.387,98,No,Postgraduate,1,No,No,1,88,172,29,8
+402,36,23,March,Friday,Fall,118,13,18,50,244.387,98,No,High School,1,Yes,No,0,98,178,31,2
+403,36,14,March,Tuesday,Fall,118,13,18,50,244.387,98,No,High School,1,Yes,No,0,98,178,31,3
+404,36,13,March,Wednesday,Fall,118,13,18,50,244.387,98,No,High School,1,Yes,No,0,98,178,31,8
+405,1,0,March,Thursday,Fall,235,11,14,37,244.387,98,Yes,Postgraduate,1,No,No,1,88,172,29,0
+406,24,0,March,Thursday,Fall,246,25,16,41,244.387,98,Yes,High School,0,Yes,No,0,67,170,23,0
+407,36,0,March,Thursday,Fall,118,13,18,50,244.387,98,Yes,High School,1,Yes,No,0,98,178,31,0
+408,3,28,March,Friday,Fall,179,51,18,38,244.387,98,No,High School,0,Yes,No,0,89,170,31,8
+409,11,22,March,Friday,Fall,289,36,13,33,244.387,98,No,High School,2,Yes,No,1,90,172,30,8
+410,20,19,March,Monday,Fall,260,50,11,36,244.387,98,No,High School,4,Yes,No,0,65,168,23,8
+411,24,28,March,Tuesday,Fall,246,25,16,41,244.387,98,No,High School,0,Yes,No,0,67,170,23,2
+412,3,28,April,Wednesday,Fall,179,51,18,38,239.409,98,No,High School,0,Yes,No,0,89,170,31,4
+413,20,28,April,Friday,Fall,260,50,11,36,239.409,98,No,High School,4,Yes,No,0,65,168,23,3
+414,18,26,April,Friday,Fall,330,16,4,28,239.409,98,No,Graduate,0,No,No,0,84,182,25,4
+415,13,22,April,Monday,Fall,369,17,12,31,239.409,98,No,High School,3,Yes,No,0,70,169,25,4
+416,33,26,April,Monday,Fall,248,25,14,47,239.409,98,No,High School,2,No,No,1,86,165,32,4
+417,18,23,April,Wednesday,Fall,330,16,4,28,239.409,98,No,Graduate,0,No,No,0,84,182,25,8
+418,3,28,April,Wednesday,Fall,179,51,18,38,239.409,98,No,High School,0,Yes,No,0,89,170,31,8
+419,36,23,April,Monday,Fall,118,13,18,50,239.409,98,No,High School,1,Yes,No,0,98,178,31,1
+420,36,13,April,Wednesday,Fall,118,13,18,50,239.409,98,No,High School,1,Yes,No,0,98,178,31,120
+421,26,28,April,Friday,Fall,300,26,13,43,239.409,98,No,High School,2,Yes,Yes,1,77,175,25,8
+422,20,28,April,Friday,Fall,260,50,11,36,239.409,98,No,High School,4,Yes,No,0,65,168,23,4
+423,3,28,April,Monday,Fall,179,51,18,38,239.409,98,No,High School,0,Yes,No,0,89,170,31,4
+424,34,11,April,Wednesday,Fall,118,10,10,37,239.409,98,No,High School,0,No,No,0,83,172,28,2
+425,5,13,May,Monday,Fall,235,20,13,43,246.074,99,No,High School,1,Yes,No,0,106,167,38,16
+426,33,23,May,Wednesday,Fall,248,25,14,47,246.074,99,No,High School,2,No,No,1,86,165,32,2
+427,13,10,May,Monday,Fall,369,17,12,31,246.074,99,No,High School,3,Yes,No,0,70,169,25,8
+428,22,23,May,Wednesday,Fall,179,26,9,30,246.074,99,No,Postgraduate,0,No,No,0,56,171,19,3
+429,3,28,May,Wednesday,Fall,179,51,18,38,246.074,99,No,High School,0,Yes,No,0,89,170,31,4
+430,10,23,May,Thursday,Fall,361,52,3,28,246.074,99,No,High School,1,Yes,No,4,80,172,27,1
+431,20,28,May,Friday,Fall,260,50,11,36,246.074,99,No,High School,4,Yes,No,0,65,168,23,3
+432,17,11,May,Monday,Fall,179,22,17,40,246.074,99,No,Graduate,2,No,Yes,0,63,170,22,2
+433,17,8,May,Monday,Fall,179,22,17,40,246.074,99,No,Graduate,2,No,Yes,0,63,170,22,3
+434,9,18,May,Wednesday,Fall,228,14,16,58,246.074,99,No,High School,2,No,No,1,65,172,22,8
+435,28,25,May,Wednesday,Fall,225,26,9,28,246.074,99,No,High School,1,No,No,2,69,169,24,3
+436,18,13,May,Friday,Fall,330,16,4,28,246.074,99,No,Graduate,0,No,No,0,84,182,25,8
+437,22,25,May,Monday,Fall,179,26,9,30,246.074,99,No,Postgraduate,0,No,No,0,56,171,19,2
+438,34,28,May,Monday,Fall,118,10,10,37,246.074,99,No,High School,0,No,No,0,83,172,28,1
+439,1,1,May,Monday,Fall,235,11,14,37,246.074,99,No,Postgraduate,1,No,No,1,88,172,29,8
+440,22,23,May,Wednesday,Fall,179,26,9,30,246.074,99,No,Postgraduate,0,No,No,0,56,171,19,3
+441,34,23,June,Monday,Fall,118,10,10,37,253.957,95,No,High School,0,No,No,0,83,172,28,3
+442,3,28,June,Monday,Fall,179,51,18,38,253.957,95,No,High School,0,Yes,No,0,89,170,31,3
+443,34,28,June,Tuesday,Fall,118,10,10,37,253.957,95,No,High School,0,No,No,0,83,172,28,2
+444,28,23,June,Thursday,Fall,225,26,9,28,253.957,95,No,High School,1,No,No,2,69,169,24,4
+445,20,28,June,Friday,Fall,260,50,11,36,253.957,95,No,High School,4,Yes,No,0,65,168,23,4
+446,3,0,June,Friday,Fall,179,51,18,38,253.957,95,Yes,High School,0,Yes,No,0,89,170,31,0
+447,15,13,June,Monday,Fall,291,31,12,40,253.957,95,No,High School,1,Yes,No,1,73,171,25,40
+448,3,28,June,Monday,Fall,179,51,18,38,253.957,95,No,High School,0,Yes,No,0,89,170,31,24
+449,24,28,June,Tuesday,Fall,246,25,16,41,253.957,95,No,High School,0,Yes,No,0,67,170,23,3
+450,3,28,June,Monday,Fall,179,51,18,38,253.957,95,No,High School,0,Yes,No,0,89,170,31,4
+451,5,26,June,Tuesday,Fall,235,20,13,43,253.957,95,No,High School,1,Yes,No,0,106,167,38,8
+452,3,28,June,Monday,Spring,179,51,18,38,253.957,95,No,High School,0,Yes,No,0,89,170,31,2
+453,28,23,June,Wednesday,Spring,225,26,9,28,253.957,95,No,High School,1,No,No,2,69,169,24,2
+454,36,23,June,Wednesday,Spring,118,13,18,50,253.957,95,No,High School,1,Yes,No,0,98,178,31,2
+455,3,5,June,Wednesday,Spring,179,51,18,38,253.957,95,No,High School,0,Yes,No,0,89,170,31,8
+456,22,21,June,Wednesday,Spring,179,26,9,30,253.957,95,No,Postgraduate,0,No,No,0,56,171,19,2
+457,24,28,June,Friday,Spring,246,25,16,41,253.957,95,No,High School,0,Yes,No,0,67,170,23,2
+458,18,11,June,Tuesday,Spring,330,16,4,28,253.957,95,No,Graduate,0,No,No,0,84,182,25,1
+459,1,13,June,Tuesday,Spring,235,11,14,37,253.957,95,No,Postgraduate,1,No,No,1,88,172,29,8
+460,22,23,July,Thursday,Spring,179,26,9,30,230.29,92,No,Postgraduate,0,No,No,0,56,171,19,2
+461,28,25,July,Thursday,Spring,225,26,9,28,230.29,92,No,High School,1,No,No,2,69,169,24,4
+462,20,13,July,Friday,Spring,260,50,11,36,230.29,92,No,High School,4,Yes,No,0,65,168,23,8
+463,21,7,July,Monday,Spring,268,11,8,33,230.29,92,No,Graduate,0,No,No,0,79,178,25,8
+464,18,25,July,Friday,Spring,330,16,4,28,230.29,92,No,Graduate,0,No,No,0,84,182,25,8
+465,34,26,July,Friday,Spring,118,10,10,37,230.29,92,No,High School,0,No,No,0,83,172,28,8
+466,20,26,July,Monday,Spring,260,50,11,36,230.29,92,No,High School,4,Yes,No,0,65,168,23,4
+467,34,28,July,Tuesday,Spring,118,10,10,37,230.29,92,No,High School,0,No,No,0,83,172,28,8
+468,26,15,July,Monday,Spring,300,26,13,43,230.29,92,No,High School,2,Yes,Yes,1,77,175,25,8
+469,2,23,July,Monday,Spring,235,29,12,48,230.29,92,No,High School,1,No,Yes,5,88,163,33,1
+470,24,28,July,Tuesday,Spring,246,25,16,41,230.29,92,No,High School,0,Yes,No,0,67,170,23,2
+471,28,9,July,Tuesday,Spring,225,26,9,28,230.29,92,No,High School,1,No,No,2,69,169,24,112
+472,3,28,July,Tuesday,Spring,179,51,18,38,230.29,92,No,High School,0,Yes,No,0,89,170,31,1
+473,36,23,July,Friday,Spring,118,13,18,50,230.29,92,No,High School,1,Yes,No,0,98,178,31,1
+474,10,22,July,Friday,Spring,361,52,3,28,230.29,92,No,High School,1,Yes,No,4,80,172,27,8
+475,11,22,July,Monday,Spring,289,36,13,33,230.29,92,No,High School,2,Yes,No,1,90,172,30,8
+476,5,26,July,Monday,Spring,235,20,13,43,230.29,92,No,High School,1,Yes,No,0,106,167,38,8
+477,24,28,July,Tuesday,Spring,246,25,16,41,230.29,92,No,High School,0,Yes,No,0,67,170,23,2
+478,15,28,July,Thursday,Spring,291,31,12,40,230.29,92,No,High School,1,Yes,No,1,73,171,25,1
+479,7,23,July,Thursday,Spring,279,5,14,39,230.29,92,No,High School,2,Yes,Yes,0,68,168,24,2
+480,3,25,August,Thursday,Spring,179,51,18,38,249.797,93,No,High School,0,Yes,No,0,89,170,31,4
+481,17,25,August,Monday,Spring,179,22,17,40,249.797,93,No,Graduate,2,No,Yes,0,63,170,22,1
+482,24,28,August,Tuesday,Spring,246,25,16,41,249.797,93,No,High School,0,Yes,No,0,67,170,23,4
+483,34,28,August,Tuesday,Spring,118,10,10,37,249.797,93,No,High School,0,No,No,0,83,172,28,4
+484,11,26,August,Tuesday,Spring,289,36,13,33,249.797,93,No,High School,2,Yes,No,1,90,172,30,8
+485,5,26,August,Tuesday,Spring,235,20,13,43,249.797,93,No,High School,1,Yes,No,0,106,167,38,8
+486,15,28,August,Thursday,Spring,291,31,12,40,249.797,93,No,High School,1,Yes,No,1,73,171,25,4
+487,3,25,August,Monday,Spring,179,51,18,38,249.797,93,No,High School,0,Yes,No,0,89,170,31,4
+488,17,25,August,Tuesday,Spring,179,22,17,40,249.797,93,No,Graduate,2,No,Yes,0,63,170,22,8
+489,18,23,August,Thursday,Spring,330,16,4,28,249.797,93,No,Graduate,0,No,No,0,84,182,25,16
+490,1,23,August,Tuesday,Spring,235,11,14,37,249.797,93,No,Postgraduate,1,No,No,1,88,172,29,4
+491,24,28,August,Tuesday,Spring,246,25,16,41,249.797,93,No,High School,0,Yes,No,0,67,170,23,1
+492,34,28,August,Tuesday,Spring,118,10,10,37,249.797,93,No,High School,0,No,No,0,83,172,28,5
+493,15,28,August,Thursday,Spring,291,31,12,40,249.797,93,No,High School,1,Yes,No,1,73,171,25,2
+494,20,28,August,Monday,Spring,260,50,11,36,249.797,93,No,High School,4,Yes,No,0,65,168,23,3
+495,24,28,September,Tuesday,Spring,246,25,16,41,261.756,87,No,High School,0,Yes,No,0,67,170,23,1
+496,24,28,September,Tuesday,Spring,246,25,16,41,261.756,87,No,High School,0,Yes,No,0,67,170,23,1
+497,34,28,September,Tuesday,Spring,118,10,10,37,261.756,87,No,High School,0,No,No,0,83,172,28,3
+498,14,23,September,Tuesday,Spring,155,12,14,34,261.756,87,No,High School,2,Yes,No,0,95,196,25,2
+499,15,28,September,Thursday,Spring,291,31,12,40,261.756,87,No,High School,1,Yes,No,1,73,171,25,2
+500,22,23,September,Friday,Spring,179,26,9,30,261.756,87,No,Postgraduate,0,No,No,0,56,171,19,8
+501,33,23,September,Friday,Spring,248,25,14,47,261.756,87,No,High School,2,No,No,1,86,165,32,1
+502,3,23,September,Monday,Spring,179,51,18,38,261.756,87,No,High School,0,Yes,No,0,89,170,31,4
+503,28,23,September,Wednesday,Spring,225,26,9,28,261.756,87,No,High School,1,No,No,2,69,169,24,1
+504,22,23,September,Monday,Spring,179,26,9,30,261.756,87,No,Postgraduate,0,No,No,0,56,171,19,2
+505,13,23,September,Tuesday,Winter,369,17,12,31,261.756,87,No,High School,3,Yes,No,0,70,169,25,8
+506,10,22,September,Tuesday,Winter,361,52,3,28,261.756,87,No,High School,1,Yes,No,4,80,172,27,8
+507,32,4,October,Thursday,Winter,289,48,29,49,284.853,91,No,High School,0,No,No,2,108,172,36,1
+508,25,11,October,Thursday,Winter,235,16,8,32,284.853,91,No,Postgraduate,0,No,No,0,75,178,25,3
+509,24,26,October,Friday,Winter,246,25,16,41,284.853,91,No,High School,0,Yes,No,0,67,170,23,8
+510,32,14,October,Wednesday,Winter,289,48,29,49,284.853,91,No,High School,0,No,No,2,108,172,36,3
+511,15,28,October,Wednesday,Winter,291,31,12,40,284.853,91,No,High School,1,Yes,No,1,73,171,25,2
+512,34,23,October,Tuesday,Winter,118,10,10,37,284.853,91,No,High School,0,No,No,0,83,172,28,2
+513,32,23,October,Thursday,Winter,289,48,29,49,284.853,91,No,High School,0,No,No,2,108,172,36,2
+514,15,23,October,Friday,Winter,291,31,12,40,284.853,91,No,High School,1,Yes,No,1,73,171,25,1
+515,28,23,October,Tuesday,Winter,225,26,9,28,284.853,91,No,High School,1,No,No,2,69,169,24,2
+516,13,23,October,Tuesday,Winter,369,17,12,31,284.853,91,No,High School,3,Yes,No,0,70,169,25,8
+517,13,23,October,Tuesday,Winter,369,17,12,31,284.853,91,No,High School,3,Yes,No,0,70,169,25,3
+518,28,23,October,Tuesday,Winter,225,26,9,28,284.853,91,No,High School,1,No,No,2,69,169,24,4
+519,13,26,October,Tuesday,Winter,369,17,12,31,284.853,91,No,High School,3,Yes,No,0,70,169,25,8
+520,3,28,October,Wednesday,Winter,179,51,18,38,284.853,91,No,High School,0,Yes,No,0,89,170,31,3
+521,9,1,October,Wednesday,Winter,228,14,16,58,284.853,91,No,High School,2,No,No,1,65,172,22,1
+522,15,23,October,Wednesday,Winter,291,31,12,40,284.853,91,No,High School,1,Yes,No,1,73,171,25,1
+523,13,10,October,Thursday,Winter,369,17,12,31,284.853,91,No,High School,3,Yes,No,0,70,169,25,8
+524,28,13,October,Thursday,Winter,225,26,9,28,284.853,91,No,High School,1,No,No,2,69,169,24,1
+525,13,10,October,Friday,Winter,369,17,12,31,284.853,91,No,High School,3,Yes,No,0,70,169,25,8
+526,28,10,October,Friday,Winter,225,26,9,28,284.853,91,No,High School,1,No,No,2,69,169,24,3
+527,6,23,October,Monday,Winter,189,29,13,33,284.853,91,No,High School,2,No,No,2,69,167,25,8
+528,25,6,October,Monday,Winter,235,16,8,32,284.853,91,No,Postgraduate,0,No,No,0,75,178,25,8
+529,33,10,October,Monday,Winter,248,25,14,47,284.853,91,No,High School,2,No,No,1,86,165,32,8
+530,28,0,October,Monday,Winter,225,26,9,28,284.853,91,Yes,High School,1,No,No,2,69,169,24,0
+531,28,13,October,Tuesday,Winter,225,26,9,28,284.853,91,No,High School,1,No,No,2,69,169,24,3
+532,3,21,November,Tuesday,Winter,179,51,18,38,268.519,93,No,High School,0,Yes,No,0,89,170,31,1
+533,34,28,November,Wednesday,Winter,118,10,10,37,268.519,93,No,High School,0,No,No,0,83,172,28,3
+534,18,2,November,Wednesday,Winter,330,16,4,28,268.519,93,No,Graduate,0,No,No,0,84,182,25,24
+535,3,28,November,Friday,Winter,179,51,18,38,268.519,93,No,High School,0,Yes,No,0,89,170,31,1
+536,34,9,November,Tuesday,Winter,118,10,10,37,268.519,93,No,High School,0,No,No,0,83,172,28,8
+537,11,24,November,Wednesday,Winter,289,36,13,33,268.519,93,No,High School,2,Yes,No,1,90,172,30,8
+538,25,1,November,Friday,Winter,235,16,8,32,268.519,93,No,Postgraduate,0,No,No,0,75,178,25,8
+539,28,23,November,Friday,Winter,225,26,9,28,268.519,93,No,High School,1,No,No,2,69,169,24,4
+540,10,22,November,Tuesday,Winter,361,52,3,28,268.519,93,No,High School,1,Yes,No,4,80,172,27,8
+541,15,28,November,Wednesday,Winter,291,31,12,40,268.519,93,No,High School,1,Yes,No,1,73,171,25,2
+542,34,13,November,Thursday,Winter,118,10,10,37,268.519,93,No,High School,0,No,No,0,83,172,28,2
+543,28,14,November,Thursday,Winter,225,26,9,28,268.519,93,No,High School,1,No,No,2,69,169,24,3
+544,3,28,November,Monday,Winter,179,51,18,38,268.519,93,No,High School,0,Yes,No,0,89,170,31,1
+545,34,23,November,Monday,Winter,118,10,10,37,268.519,93,No,High School,0,No,No,0,83,172,28,8
+546,34,8,November,Tuesday,Winter,118,10,10,37,268.519,93,No,High School,0,No,No,0,83,172,28,8
+547,28,23,November,Tuesday,Winter,225,26,9,28,268.519,93,No,High School,1,No,No,2,69,169,24,2
+548,15,0,November,Tuesday,Winter,291,31,12,40,268.519,93,Yes,High School,1,Yes,No,1,73,171,25,0
+549,11,0,November,Wednesday,Winter,289,36,13,33,268.519,93,Yes,High School,2,Yes,No,1,90,172,30,0
+550,33,14,November,Thursday,Winter,248,25,14,47,268.519,93,No,High School,2,No,No,1,86,165,32,4
+551,5,0,November,Thursday,Winter,235,20,13,43,268.519,93,Yes,High School,1,Yes,No,0,106,167,38,0
+552,28,23,November,Friday,Winter,225,26,9,28,268.519,93,No,High School,1,No,No,2,69,169,24,2
+553,13,26,November,Friday,Winter,369,17,12,31,268.519,93,No,High School,3,Yes,No,0,70,169,25,8
+554,10,28,November,Monday,Winter,361,52,3,28,268.519,93,No,High School,1,Yes,No,4,80,172,27,2
+555,3,13,December,Tuesday,Winter,179,51,18,38,280.549,98,No,High School,0,Yes,No,0,89,170,31,32
+556,15,28,December,Wednesday,Winter,291,31,12,40,280.549,98,No,High School,1,Yes,No,1,73,171,25,1
+557,28,23,December,Wednesday,Winter,225,26,9,28,280.549,98,No,High School,1,No,No,2,69,169,24,3
+558,22,13,December,Friday,Winter,179,26,9,30,280.549,98,No,Postgraduate,0,No,No,0,56,171,19,1
+559,28,23,December,Friday,Winter,225,26,9,28,280.549,98,No,High School,1,No,No,2,69,169,24,3
+560,28,23,December,Wednesday,Winter,225,26,9,28,280.549,98,No,High School,1,No,No,2,69,169,24,3
+561,10,14,December,Thursday,Winter,361,52,3,28,280.549,98,No,High School,1,Yes,No,4,80,172,27,4
+562,17,18,December,Friday,Winter,179,22,17,40,280.549,98,No,Graduate,2,No,Yes,0,63,170,22,2
+563,5,26,December,Friday,Winter,235,20,13,43,280.549,98,No,High School,1,Yes,No,0,106,167,38,8
+564,12,18,December,Monday,Winter,233,51,1,31,280.549,98,No,Graduate,1,Yes,No,8,68,178,21,8
+565,22,13,December,Tuesday,Winter,179,26,9,30,280.549,98,No,Postgraduate,0,No,No,0,56,171,19,16
+566,28,23,December,Tuesday,Winter,225,26,9,28,280.549,98,No,High School,1,No,No,2,69,169,24,2
+567,28,23,December,Thursday,Winter,225,26,9,28,280.549,98,No,High School,1,No,No,2,69,169,24,3
+568,28,23,December,Monday,Winter,225,26,9,28,280.549,98,No,High School,1,No,No,2,69,169,24,2
+569,14,18,December,Tuesday,Summer,155,12,14,34,280.549,98,No,High School,2,Yes,No,0,95,196,25,80
+570,22,12,January,Monday,Summer,179,26,9,30,313.532,96,No,Postgraduate,0,No,No,0,56,171,19,24
+571,22,12,January,Thursday,Summer,179,26,9,30,313.532,96,No,Postgraduate,0,No,No,0,56,171,19,16
+572,17,25,January,Thursday,Summer,179,22,17,40,313.532,96,No,Graduate,2,No,Yes,0,63,170,22,2
+573,17,25,January,Friday,Summer,179,22,17,40,313.532,96,No,Graduate,2,No,Yes,0,63,170,22,2
+574,22,13,January,Monday,Summer,179,26,9,30,313.532,96,No,Postgraduate,0,No,No,0,56,171,19,3
+575,17,25,January,Wednesday,Summer,179,22,17,40,313.532,96,No,Graduate,2,No,Yes,0,63,170,22,2
+576,32,10,January,Thursday,Summer,289,48,29,49,313.532,96,No,High School,0,No,No,2,108,172,36,8
+577,17,18,January,Friday,Summer,179,22,17,40,313.532,96,No,Graduate,2,No,Yes,0,63,170,22,3
+578,22,27,January,Monday,Summer,179,26,9,30,313.532,96,No,Postgraduate,0,No,No,0,56,171,19,2
+579,14,18,January,Tuesday,Summer,155,12,14,34,313.532,96,No,High School,2,Yes,No,0,95,196,25,8
+580,22,27,January,Wednesday,Summer,179,26,9,30,313.532,96,No,Postgraduate,0,No,No,0,56,171,19,2
+581,3,27,January,Wednesday,Summer,179,51,18,38,313.532,96,No,High School,0,Yes,No,0,89,170,31,3
+582,11,13,January,Wednesday,Summer,289,36,13,33,313.532,96,No,High School,2,Yes,No,1,90,172,30,8
+583,3,27,January,Thursday,Summer,179,51,18,38,313.532,96,No,High School,0,Yes,No,0,89,170,31,3
+584,3,27,January,Friday,Summer,179,51,18,38,313.532,96,No,High School,0,Yes,No,0,89,170,31,2
+585,3,13,February,Tuesday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,8
+586,28,23,February,Tuesday,Summer,225,26,9,28,264.249,97,No,High School,1,No,No,2,69,169,24,3
+587,33,1,February,Wednesday,Summer,248,25,14,47,264.249,97,No,High School,2,No,No,1,86,165,32,8
+588,3,27,February,Wednesday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+589,28,28,February,Thursday,Summer,225,26,9,28,264.249,97,No,High School,1,No,No,2,69,169,24,3
+590,3,27,February,Thursday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+591,22,27,February,Thursday,Summer,179,26,9,30,264.249,97,No,Postgraduate,0,No,No,0,56,171,19,2
+592,29,28,February,Friday,Summer,225,15,15,41,264.249,97,No,Master/PhD,2,Yes,No,2,94,182,28,2
+593,3,27,February,Friday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+594,12,19,February,Monday,Summer,233,51,1,31,264.249,97,No,Graduate,1,Yes,No,8,68,178,21,2
+595,3,27,February,Monday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+596,28,7,February,Tuesday,Summer,225,26,9,28,264.249,97,No,High School,1,No,No,2,69,169,24,8
+597,3,27,February,Wednesday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,3
+598,3,27,February,Thursday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,3
+599,28,25,February,Thursday,Summer,225,26,9,28,264.249,97,No,High School,1,No,No,2,69,169,24,3
+600,22,13,February,Thursday,Summer,179,26,9,30,264.249,97,No,Postgraduate,0,No,No,0,56,171,19,2
+601,17,23,February,Friday,Summer,179,22,17,40,264.249,97,No,Graduate,2,No,Yes,0,63,170,22,2
+602,3,27,February,Friday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,3
+603,12,12,February,Wednesday,Summer,233,51,1,31,264.249,97,No,Graduate,1,Yes,No,8,68,178,21,3
+604,22,27,February,Wednesday,Summer,179,26,9,30,264.249,97,No,Postgraduate,0,No,No,0,56,171,19,2
+605,3,27,February,Wednesday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+606,3,13,February,Thursday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,8
+607,3,27,February,Friday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+608,14,25,February,Monday,Summer,155,12,14,34,264.249,97,No,High School,2,Yes,No,0,95,196,25,5
+609,25,25,February,Monday,Summer,235,16,8,32,264.249,97,No,Postgraduate,0,No,No,0,75,178,25,3
+610,3,27,February,Monday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+611,28,7,February,Monday,Summer,225,26,9,28,264.249,97,No,High School,1,No,No,2,69,169,24,2
+612,3,27,February,Tuesday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+613,33,23,February,Tuesday,Summer,248,25,14,47,264.249,97,No,High School,2,No,No,1,86,165,32,2
+614,28,25,February,Tuesday,Summer,225,26,9,28,264.249,97,No,High School,1,No,No,2,69,169,24,2
+615,3,27,February,Wednesday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+616,3,27,February,Thursday,Summer,179,51,18,38,264.249,97,No,High School,0,Yes,No,0,89,170,31,2
+617,25,25,February,Friday,Summer,235,16,8,32,264.249,97,No,Postgraduate,0,No,No,0,75,178,25,2
+618,3,27,March,Monday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,2
+619,33,23,March,Monday,Summer,248,25,14,47,222.196,99,No,High School,2,No,No,1,86,165,32,2
+620,9,25,March,Tuesday,Summer,228,14,16,58,222.196,99,No,High School,2,No,No,1,65,172,22,3
+621,33,25,March,Tuesday,Summer,248,25,14,47,222.196,99,No,High School,2,No,No,1,86,165,32,3
+622,9,12,March,Tuesday,Summer,228,14,16,58,222.196,99,No,High School,2,No,No,1,65,172,22,112
+623,3,27,March,Wednesday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,2
+624,28,27,March,Thursday,Summer,225,26,9,28,222.196,99,No,High School,1,No,No,2,69,169,24,2
+625,3,27,March,Thursday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+626,28,25,March,Thursday,Summer,225,26,9,28,222.196,99,No,High School,1,No,No,2,69,169,24,2
+627,22,27,March,Friday,Summer,179,26,9,30,222.196,99,No,Postgraduate,0,No,No,0,56,171,19,3
+628,25,25,March,Monday,Summer,235,16,8,32,222.196,99,No,Postgraduate,0,No,No,0,75,178,25,3
+629,10,19,March,Monday,Summer,361,52,3,28,222.196,99,No,High School,1,Yes,No,4,80,172,27,8
+630,3,13,March,Tuesday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,8
+631,3,27,March,Wednesday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,2
+632,3,27,March,Thursday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+633,22,27,March,Friday,Summer,179,26,9,30,222.196,99,No,Postgraduate,0,No,No,0,56,171,19,2
+634,3,10,March,Monday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,4
+635,33,13,March,Monday,Summer,248,25,14,47,222.196,99,No,High School,2,No,No,1,86,165,32,2
+636,3,27,March,Monday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+637,28,7,March,Monday,Summer,225,26,9,28,222.196,99,No,High School,1,No,No,2,69,169,24,8
+638,3,27,March,Tuesday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,2
+639,11,23,March,Wednesday,Summer,289,36,13,33,222.196,99,No,High School,2,Yes,No,1,90,172,30,8
+640,9,25,March,Wednesday,Summer,228,14,16,58,222.196,99,No,High School,2,No,No,1,65,172,22,2
+641,3,27,March,Wednesday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,2
+642,33,23,March,Thursday,Summer,248,25,14,47,222.196,99,No,High School,2,No,No,1,86,165,32,3
+643,3,27,March,Thursday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+644,22,23,March,Friday,Summer,179,26,9,30,222.196,99,No,Postgraduate,0,No,No,0,56,171,19,2
+645,3,27,March,Friday,Summer,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+646,3,27,March,Tuesday,Fall,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+647,16,23,March,Wednesday,Fall,118,15,24,46,222.196,99,No,High School,2,Yes,Yes,0,75,175,25,8
+648,14,13,March,Wednesday,Fall,155,12,14,34,222.196,99,No,High School,2,Yes,No,0,95,196,25,24
+649,3,27,March,Wednesday,Fall,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+650,3,27,March,Thursday,Fall,179,51,18,38,222.196,99,No,High School,0,Yes,No,0,89,170,31,3
+651,22,13,March,Monday,Fall,179,26,9,30,222.196,99,No,Postgraduate,0,No,No,0,56,171,19,2
+652,11,19,March,Monday,Fall,289,36,13,33,222.196,99,No,High School,2,Yes,No,1,90,172,30,104
+653,13,22,March,Wednesday,Fall,369,17,12,31,222.196,99,No,High School,3,Yes,No,0,70,169,25,8
+654,28,13,April,Monday,Fall,225,26,9,28,246.288,91,No,High School,1,No,No,2,69,169,24,8
+655,34,10,April,Monday,Fall,118,10,10,37,246.288,91,No,High School,0,No,No,0,83,172,28,8
+656,10,19,April,Tuesday,Fall,361,52,3,28,246.288,91,No,High School,1,Yes,No,4,80,172,27,8
+657,33,19,April,Wednesday,Fall,248,25,14,47,246.288,91,No,High School,2,No,No,1,86,165,32,8
+658,6,13,April,Thursday,Fall,189,29,13,33,246.288,91,No,High School,2,No,No,2,69,167,25,8
+659,22,27,April,Friday,Fall,179,26,9,30,246.288,91,No,Postgraduate,0,No,No,0,56,171,19,2
+660,13,7,April,Monday,Fall,369,17,12,31,246.288,91,No,High School,3,Yes,No,0,70,169,25,24
+661,17,16,April,Tuesday,Fall,179,22,17,40,246.288,91,No,Graduate,2,No,Yes,0,63,170,22,2
+662,36,23,April,Tuesday,Fall,118,13,18,50,246.288,91,No,High School,1,Yes,No,0,98,178,31,3
+663,10,23,April,Tuesday,Fall,361,52,3,28,246.288,91,No,High School,1,Yes,No,4,80,172,27,2
+664,34,10,April,Wednesday,Fall,118,10,10,37,246.288,91,No,High School,0,No,No,0,83,172,28,2
+665,1,22,April,Friday,Fall,235,11,14,37,246.288,91,No,Postgraduate,1,No,No,1,88,172,29,8
+666,22,27,April,Friday,Fall,179,26,9,30,246.288,91,No,Postgraduate,0,No,No,0,56,171,19,2
+667,28,19,April,Monday,Fall,225,26,9,28,246.288,91,No,High School,1,No,No,2,69,169,24,8
+668,25,16,April,Tuesday,Fall,235,16,8,32,246.288,91,No,Postgraduate,0,No,No,0,75,178,25,3
+669,22,27,April,Friday,Fall,179,26,9,30,246.288,91,No,Postgraduate,0,No,No,0,56,171,19,2
+670,14,28,April,Tuesday,Fall,155,12,14,34,246.288,91,No,High School,2,Yes,No,0,95,196,25,4
+671,28,19,April,Thursday,Fall,225,26,9,28,246.288,91,No,High School,1,No,No,2,69,169,24,8
+672,36,14,April,Thursday,Fall,118,13,18,50,246.288,91,No,High School,1,Yes,No,0,98,178,31,2
+673,22,27,April,Friday,Fall,179,26,9,30,246.288,91,No,Postgraduate,0,No,No,0,56,171,19,2
+674,1,22,May,Monday,Fall,235,11,14,37,237.656,99,No,Postgraduate,1,No,No,1,88,172,29,8
+675,29,19,May,Wednesday,Fall,225,15,15,41,237.656,99,No,Master/PhD,2,Yes,No,2,94,182,28,3
+676,25,28,May,Wednesday,Fall,235,16,8,32,237.656,99,No,Postgraduate,0,No,No,0,75,178,25,2
+677,34,8,May,Wednesday,Fall,118,10,10,37,237.656,99,No,High School,0,No,No,0,83,172,28,3
+678,5,26,May,Wednesday,Fall,235,20,13,43,237.656,99,No,High School,1,Yes,No,0,106,167,38,8
+679,22,13,May,Thursday,Fall,179,26,9,30,237.656,99,No,Postgraduate,0,No,No,0,56,171,19,1
+680,15,28,May,Thursday,Fall,291,31,12,40,237.656,99,No,High School,1,Yes,No,1,73,171,25,2
+681,29,14,May,Thursday,Fall,225,15,15,41,237.656,99,No,Master/PhD,2,Yes,No,2,94,182,28,8
+682,26,19,May,Friday,Fall,300,26,13,43,237.656,99,No,High School,2,Yes,Yes,1,77,175,25,64
+683,29,22,May,Friday,Fall,225,15,15,41,237.656,99,No,Master/PhD,2,Yes,No,2,94,182,28,8
+684,22,27,May,Friday,Fall,179,26,9,30,237.656,99,No,Postgraduate,0,No,No,0,56,171,19,2
+685,36,23,May,Monday,Fall,118,13,18,50,237.656,99,No,High School,1,Yes,No,0,98,178,31,2
+686,36,5,May,Tuesday,Fall,118,13,18,50,237.656,99,No,High School,1,Yes,No,0,98,178,31,3
+687,34,28,May,Tuesday,Fall,118,10,10,37,237.656,99,No,High School,0,No,No,0,83,172,28,1
+688,36,0,May,Tuesday,Fall,118,13,18,50,237.656,99,Yes,High School,1,Yes,No,0,98,178,31,0
+689,22,27,May,Wednesday,Fall,179,26,9,30,237.656,99,No,Postgraduate,0,No,No,0,56,171,19,2
+690,23,0,May,Wednesday,Fall,378,49,11,36,237.656,99,Yes,High School,2,No,Yes,4,65,174,21,0
+691,17,16,May,Friday,Fall,179,22,17,40,237.656,99,No,Graduate,2,No,Yes,0,63,170,22,1
+692,14,10,May,Monday,Fall,155,12,14,34,237.656,99,No,High School,2,Yes,No,0,95,196,25,48
+693,25,10,May,Monday,Fall,235,16,8,32,237.656,99,No,Postgraduate,0,No,No,0,75,178,25,8
+694,15,22,May,Wednesday,Fall,291,31,12,40,237.656,99,No,High School,1,Yes,No,1,73,171,25,8
+695,17,10,May,Wednesday,Fall,179,22,17,40,237.656,99,No,Graduate,2,No,Yes,0,63,170,22,8
+696,28,6,May,Wednesday,Fall,225,26,9,28,237.656,99,No,High School,1,No,No,2,69,169,24,3
+697,18,10,May,Thursday,Fall,330,16,4,28,237.656,99,No,Graduate,0,No,No,0,84,182,25,8
+698,25,23,May,Thursday,Fall,235,16,8,32,237.656,99,No,Postgraduate,0,No,No,0,75,178,25,2
+699,15,28,May,Thursday,Fall,291,31,12,40,237.656,99,No,High School,1,Yes,No,1,73,171,25,2
+700,22,27,May,Friday,Fall,179,26,9,30,237.656,99,No,Postgraduate,0,No,No,0,56,171,19,2
+701,10,7,May,Monday,Fall,361,52,3,28,237.656,99,No,High School,1,Yes,No,4,80,172,27,8
+702,14,23,May,Wednesday,Fall,155,12,14,34,237.656,99,No,High School,2,Yes,No,0,95,196,25,2
+703,17,25,May,Friday,Fall,179,22,17,40,237.656,99,No,Graduate,2,No,Yes,0,63,170,22,8
+704,14,10,May,Friday,Fall,155,12,14,34,237.656,99,No,High School,2,Yes,No,0,95,196,25,8
+705,28,11,May,Monday,Fall,225,26,9,28,237.656,99,No,High School,1,No,No,2,69,169,24,1
+706,16,7,June,Wednesday,Fall,118,15,24,46,275.089,96,No,High School,2,Yes,Yes,0,75,175,25,8
+707,22,27,June,Wednesday,Fall,179,26,9,30,275.089,96,No,Postgraduate,0,No,No,0,56,171,19,3
+708,34,26,June,Friday,Fall,118,10,10,37,275.089,96,No,High School,0,No,No,0,83,172,28,8
+709,34,10,June,Wednesday,Fall,118,10,10,37,275.089,96,No,High School,0,No,No,0,83,172,28,8
+710,23,22,June,Thursday,Fall,378,49,11,36,275.089,96,No,High School,2,No,Yes,4,65,174,21,8
+711,36,19,June,Thursday,Fall,118,13,18,50,275.089,96,No,High School,1,Yes,No,0,98,178,31,24
+712,12,19,June,Friday,Fall,233,51,1,31,275.089,96,No,Graduate,1,Yes,No,8,68,178,21,8
+713,22,27,June,Friday,Fall,179,26,9,30,275.089,96,No,Postgraduate,0,No,No,0,56,171,19,2
+714,2,0,June,Monday,Fall,235,29,12,48,275.089,96,Yes,High School,1,No,Yes,5,88,163,33,0
+715,21,0,June,Monday,Fall,268,11,8,33,275.089,96,Yes,Graduate,0,No,No,0,79,178,25,0
+716,36,19,June,Thursday,Fall,118,13,18,50,275.089,96,No,High School,1,Yes,No,0,98,178,31,3
+717,22,13,June,Thursday,Fall,179,26,9,30,275.089,96,No,Postgraduate,0,No,No,0,56,171,19,2
+718,15,28,June,Thursday,Fall,291,31,12,40,275.089,96,No,High School,1,Yes,No,1,73,171,25,2
+719,22,13,June,Monday,Spring,179,26,9,30,275.089,96,No,Postgraduate,0,No,No,0,56,171,19,3
+720,34,25,June,Monday,Spring,118,10,10,37,275.089,96,No,High School,0,No,No,0,83,172,28,3
+721,12,22,June,Thursday,Spring,233,51,1,31,275.089,96,No,Graduate,1,Yes,No,8,68,178,21,8
+722,34,8,June,Friday,Spring,118,10,10,37,275.089,96,No,High School,0,No,No,0,83,172,28,2
+723,34,10,June,Wednesday,Spring,118,10,10,37,275.089,96,No,High School,0,No,No,0,83,172,28,3
+724,12,22,June,Wednesday,Spring,233,51,1,31,275.089,96,No,Graduate,1,Yes,No,8,68,178,21,3
+725,5,26,July,Wednesday,Spring,235,20,13,43,264.604,93,No,High School,1,Yes,No,0,106,167,38,4
+726,12,19,July,Friday,Spring,233,51,1,31,264.604,93,No,Graduate,1,Yes,No,8,68,178,21,2
+727,9,6,July,Monday,Spring,228,14,16,58,264.604,93,No,High School,2,No,No,1,65,172,22,8
+728,34,28,July,Monday,Spring,118,10,10,37,264.604,93,No,High School,0,No,No,0,83,172,28,4
+729,9,6,July,Tuesday,Spring,228,14,16,58,264.604,93,No,High School,2,No,No,1,65,172,22,120
+730,6,22,July,Tuesday,Spring,189,29,13,33,264.604,93,No,High School,2,No,No,2,69,167,25,16
+731,34,23,July,Wednesday,Spring,118,10,10,37,264.604,93,No,High School,0,No,No,0,83,172,28,2
+732,10,22,July,Wednesday,Spring,361,52,3,28,264.604,93,No,High School,1,Yes,No,4,80,172,27,8
+733,28,22,July,Wednesday,Spring,225,26,9,28,264.604,93,No,High School,1,No,No,2,69,169,24,8
+734,13,13,July,Monday,Spring,369,17,12,31,264.604,93,No,High School,3,Yes,No,0,70,169,25,80
+735,11,14,July,Tuesday,Spring,289,36,13,33,264.604,93,No,High School,2,Yes,No,1,90,172,30,8
+736,1,11,July,Tuesday,Spring,235,11,14,37,264.604,93,No,Postgraduate,1,No,No,1,88,172,29,4
+737,4,0,Unknown,Tuesday,Spring,118,14,13,40,271.219,95,No,High School,1,Yes,No,8,98,170,34,0
+738,8,0,Unknown,Wednesday,Summer,231,35,14,39,271.219,95,No,High School,2,Yes,No,2,100,170,35,0
+739,35,0,Unknown,Friday,Fall,179,45,14,53,271.219,95,No,High School,1,No,No,1,77,175,25,0
