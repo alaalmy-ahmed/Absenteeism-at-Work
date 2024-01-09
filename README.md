@@ -5,11 +5,11 @@
 - Bivariate Analysis
 - Correlation Analysis
 
-#### After getting Important Plots from the data I use the Both those Technique to approve or deny what the plot tells us.
+#### After getting Important Plots from the data I use Both those Techniques to approve or deny what the plot tells us.
 - Conditional Probabilities & Bayes' Theorem
 - Hypothesis Testing
 
-#### After Approving the Insights, The Explanatory Data Analysis comes Using `Power BI` tool. Using Simple Visualization Plots like:
+#### After Approving the Insights, The Explanatory Data Analysis uses the `Power BI` tool. Using Simple Visualization Plots like:
 - Bar Charts
 - Line Charts
 - Pie Charts
